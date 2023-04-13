@@ -1,4 +1,4 @@
-stm32f429-linux-builder
+[stm32f429-linux-builder](https://github.com/jserv/stm32f429-linux-builder)
 ======================
 This is a simple tool designed to create a uClinux distribution for STM32f429
 Discovery board from [STMicroelectronics](http://www.st.com/). STM32F429 MCU
